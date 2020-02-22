@@ -6,3 +6,5 @@ Sortowania do nauczenia:
 - Bubble Sort (Sortowanie Bąbelkowe)
 - Quick Sort (Sortowanie szybkie)
 - Merge Sort (Sortowanie przez scalanie)
+
+xd | xd

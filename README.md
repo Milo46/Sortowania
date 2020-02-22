@@ -8,3 +8,4 @@ Sortowania do nauczenia:
 - Merge Sort (Sortowanie przez scalanie)
 
 xd | xd
+-- | --

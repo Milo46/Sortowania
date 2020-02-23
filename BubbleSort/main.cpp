@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-    int tab[10] = {6, 4, 9, 7, 0, 1, 3, 2, 8, 5}; //Nieposortowana tablica
-    int tab_size = 10; //Rozmiar tablicy
+    const int tab_size = 10; //Stala, rozmiar tablicy
+    int tab[tab_size] = {6, 4, 9, 7, 0, 1, 3, 2, 8, 5}; //Nieposortowana tablica
     
     //Sortowanie babelkowe
     for (int i = 0; i < tab_size - 1; i++)

@@ -65,5 +65,5 @@ Uwagi:
 
 
 
-
+.
 Jeżeli to czytasz, nie musisz dziękować za to.

@@ -15,5 +15,3 @@ Sortowania do nauczenia (podfoldery):
 
 Uwagi:
 - Komentarze w kodach nie zawierają polskich znaków
-
-ℕ𝕚𝕖 𝕕𝕫𝕚𝕖𝕜𝕦𝕛 𝕫𝕒 𝕥𝕠

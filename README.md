@@ -2,7 +2,7 @@
 
 Co zrobiłem dla was (oprócz tej listy):
 - Użyłem w każdym pliku dyrektywy "using namespace std"
-- Nie pisałem żadnych funkcji
+- Nie pisałem żadnych funkcji (oprócz quick sort'a i merge sort'a)
 - Nie użyłem żadnego WSKAŹNIKA (do Krzysia)
 - Dodałem linki do "tanecznych sortowań" :)
 

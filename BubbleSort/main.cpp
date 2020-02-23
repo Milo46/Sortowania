@@ -21,7 +21,8 @@ int main()
     }
     
     //Petla wyswietlajace zawartosc tablicy
-    for (int i = 0; i < tab_size; i++) {
+    for (int i = 0; i < tab_size; i++)
+    {
         cout << tab[i] << endl;
     }
     

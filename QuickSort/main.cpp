@@ -7,19 +7,19 @@ using namespace std;
 int partition(int tab[], int left, int right)
 {
     int pivot = tab[right];
-    int temp = left - 1;
+    //Leftwall - prawa granica elementow mniejszych od pivot'a
+    int leftwall = left;
     
     for (int i = left; i < right; i++)
     {
         if (tab[i] <= pivot)
         {
-            temp++;
-            swap(tab[temp], tab[i]);
+            swap(tab[leftwall++], tab[i]);
         }
     }
     
-    swap(tab[temp + 1], tab[right]);
-    return temp + 1;
+    swap(tab[leftwall], tab[right]);
+    return leftwall;
 }
 
 void quickSort(int tab[], int left, int right)
